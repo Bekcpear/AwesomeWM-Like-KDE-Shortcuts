@@ -1,0 +1,41 @@
+[Chromium rule]
+Description=Chromium rule
+decocolor=BreezeForChromium
+decocolorrule=2
+noborder=true
+noborderrule=3
+wmclass=chromium-browser-chromium
+wmclassmatch=1
+
+[Gvim rule]
+Description=Gvim rule
+position=560,60
+positionrule=3
+size=860,1100
+sizerule=3
+wmclass=gvim
+wmclassmatch=1
+
+[Telegram rule]
+Description=Telegram rule
+activity=00000000-0000-0000-0000-000000000000
+activityrule=3
+decocolor=BreezeForTelegram
+decocolorrule=2
+wmclass=telegramdesktop
+wmclassmatch=1
+
+[konsole rule]
+Description=konsole rule
+decocolor=BreezeDarkForKonsole
+decocolorrule=2
+maximizehorizrule=3
+maximizevertrule=3
+noborder=true
+noborderrule=3
+position=660,315
+positionrule=3
+size=1190,815
+sizerule=3
+wmclass=konsole
+wmclassmatch=1
